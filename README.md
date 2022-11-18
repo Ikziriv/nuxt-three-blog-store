@@ -1,5 +1,5 @@
-![Vue](https://img.shields.io/badge/vue-%3fb27f.svg?style=for-the-badge&logo=vue&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-%00dc82.svg?style=for-the-badge&logo=nuxt&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-3fb27f?style=for-the-badge&logo=vue&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-00dc82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # Nuxt 3 - Experiment
