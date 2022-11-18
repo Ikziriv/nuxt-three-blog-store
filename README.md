@@ -1,42 +1,18 @@
-# Nuxt 3 Minimal Starter
+![Vue](https://img.shields.io/badge/vue-%23007ACC.svg?style=for-the-badge&logo=vue&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-%23f1413d.svg?style=for-the-badge&logo=nuxt&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 - Experiment
 
-## Setup
+### Built with
 
-Make sure to install the dependencies:
+- [Vue](https://vuejs.org/) - JS library
+- [Nuxt](https://nuxt.com/) - Sveltekit framework
+- [UnoCSS](https://uno.antfu.me/play/) - For styles
+- [TailwindCSS](https://tailwindcss.com/) - For styles
 
-```bash
-# yarn
-yarn install
+## Author
 
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Website - [Ikziriv Design & Development](https://www.ikziriv.com)
+- Frontend Mentor - [@Ikziriv](https://www.frontendmentor.io/profile/Ikziriv)
+- Twitter - [@ikziriv](https://www.twitter.com/ikziriv)
